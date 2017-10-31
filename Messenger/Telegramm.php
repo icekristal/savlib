@@ -6,7 +6,7 @@
  * Time: 13:52
  */
 
-namespace messenger\telegram;
+namespace messenger;
 
 
 use Couchbase\Exception;
