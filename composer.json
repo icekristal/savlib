@@ -17,7 +17,8 @@
   },
   "autoload": {
     "psr-4": {
-      "messenger\\": "Messenger/"
+      "messenger\\": "Messenger/",
+      "maps\\": "Maps/"
     }
   }
 }
